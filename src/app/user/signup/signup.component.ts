@@ -27,7 +27,7 @@ export class SignupComponent implements OnInit {
     email:this.email,
       mobileNumber:this.mobileNumber
     };
-    
+
   }
 
 }
